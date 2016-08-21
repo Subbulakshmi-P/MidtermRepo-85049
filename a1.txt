@@ -1,1 +1,2 @@
-Hello Git a1.txt file modified
+Hello Git a1.txt file modified.
+modified in master
