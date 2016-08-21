@@ -1,3 +1,6 @@
 Hello Git a1.txt file modified.
+<<<<<<< HEAD
+modified in master
+=======
 added something for conflict
-again modified for rebase in branch feature3
+>>>>>>> feature1
